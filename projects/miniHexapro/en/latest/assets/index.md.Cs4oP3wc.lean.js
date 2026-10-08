@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as o,ak as t}from"./chunks/framework.Bz66nvfN.js";const p=JSON.parse('{"title":"miniHexa Pro","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"};function n(s,e,d,l,c,m){return r(),o("div",null,[...e[0]||(e[0]=[t("",2)])])}const f=a(i,[["render",n]]);export{p as __pageData,f as default};
